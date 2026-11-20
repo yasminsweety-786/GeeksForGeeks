@@ -18,5 +18,4 @@ class Solution:
                     dp[i] = max(dp[i], dp[j] + h)
             ans = max(ans, dp[i])
         return ans
-
         
