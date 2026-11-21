@@ -7,3 +7,4 @@
 <p><span style="font-size: 18px;"><strong>Example :</strong></span></p>
 <pre><span style="font-size: 18px;"><strong><span style="font-size: 18px;">Input:</span> </strong></span><span style="font-size: 18px;">c1.real = 3, c1.img = 6, c2.real = -1, c2.img = 4</span>
 <span style="font-size: 18px;"><strong><span style="font-size: 18px;">Output:</span> </strong></span><span style="font-size: 18px;">2 + 10i<br><strong>Explanation: </strong>The real part of the result is 3 + (-1) = 2. The imaginary part of the result is 6 + 4 = 10. Therefore, the resulting complex number is 2 + 10i.<br></span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>CPP</code>&nbsp;
+
